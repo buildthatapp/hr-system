@@ -1,0 +1,12 @@
+README.md
+setup.py
+flask_hr.egg-info/PKG-INFO
+flask_hr.egg-info/SOURCES.txt
+flask_hr.egg-info/dependency_links.txt
+flask_hr.egg-info/requires.txt
+flask_hr.egg-info/top_level.txt
+hr/__init__.py
+hr/api.py
+hr/middleware.py
+hr/model.py
+hr/worker.py
